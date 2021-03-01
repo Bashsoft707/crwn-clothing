@@ -20,7 +20,7 @@ class ShopPage extends React.Component{
                         <CollectionPreview key={id} {...otheCollectionProps} />
                     ))
                 }
-            SHOP PAGE</div>
+            </div>
         )
     }
 }
